@@ -10,9 +10,9 @@ The app was built in order to teach children various fruits using images and aud
 
 **Functionality**
 
--Slide left and right to explore different kinds of fruits 
--Touch the images for audio 
--Animation of walking orange when user is inactive
+1.Slide left and right to explore different kinds of fruits 
+2.Touch the images for audio 
+2.Animation of walking orange when user is inactive
 
 ![](assets/image.png)
 ![](assets/image-1.png)
